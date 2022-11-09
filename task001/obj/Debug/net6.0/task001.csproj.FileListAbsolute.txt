@@ -1,0 +1,15 @@
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\bin\Debug\net6.0\task001.exe
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\bin\Debug\net6.0\task001.deps.json
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\bin\Debug\net6.0\task001.runtimeconfig.json
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\bin\Debug\net6.0\task001.dll
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\bin\Debug\net6.0\task001.pdb
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.csproj.AssemblyReference.cache
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.GeneratedMSBuildEditorConfig.editorconfig
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.AssemblyInfoInputs.cache
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.AssemblyInfo.cs
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.csproj.CoreCompileInputs.cache
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.dll
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\refint\task001.dll
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.pdb
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\task001.genruntimeconfig.cache
+\\xpenology\server\GeekBrains\семинары\3. Знакомство с языками программирования (семинары)\Урок 8. Как не нужно писать код. Часть 2\workshop8-C#\C#\task001\obj\Debug\net6.0\ref\task001.dll
